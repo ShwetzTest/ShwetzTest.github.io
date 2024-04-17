@@ -1,23 +1,23 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetabb/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io
-/main/images/banner.png" alt="My banner">
+/master/images/banner.png" alt="My banner">
   </a>
 </p>
 
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shwetabb/" target="_blank" rel="noreferrer">Shweta</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer 💻, enthusiastic Baker 🧁 and a damn passionate Swimmer 🏊‍♀️</h2>
+<h2 align="center">I'm a Software Development Engineer in Test 💻, enthusiastic Baker 🧁 and a damn passionate Swimmer 🏊‍♀️</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetabb/">
-    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/main/images/linkedin.svg" alt="Shweta Bhat | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/master/images/linkedin.svg" alt="Shweta Bhat | LinkedIn" width="21px"/>
   </a>
  
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/main/images/whatsapp.png" alt="Shweta | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/master/images/whatsapp.png" alt="Shweta | Whatsapp" width="21px"/>
   </a>
 </p>
   
@@ -26,13 +26,13 @@
 
 <b>Work in Progress !! </b>
 
-  <!-- <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <!-- <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
 </p> -->
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -43,7 +43,7 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.
 - Postman Newman Automated Test
 <p align="center">    
-<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/master/images/postmanproject.jpg" alt="Shweta | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
@@ -65,7 +65,7 @@ in test coverage</b>
 
 ## 💻 Framework WalkThrough
 
-[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/master/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects
 
@@ -102,11 +102,11 @@ in test coverage</b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetabb/">
-    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/main/images/linkedin.svg" alt="Shweta Bhat | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/master/images/linkedin.svg" alt="Shweta Bhat | LinkedIn" width="21px"/>
   </a>
  
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/main/images/whatsapp.png" alt="Shweta | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/ShwetzTest/ShwetzTest.github.io/master/images/whatsapp.png" alt="Shweta | Whatsapp" width="21px"/>
   </a>
 </p>
 
