@@ -7,7 +7,7 @@
 
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shwetabb/" target="_blank" rel="noreferrer">Shweta</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test 💻, enthusiastic Baker 🧁 and a damn passionate Swimmer 🏊‍♀️</h2>
+<h2 align="center">I'm a Software Test Engineer 💻, enthusiastic Baker 🧁 and a damn passionate Swimmer 🏊‍♀️</h2>
 
 ### 🤝 Connect with me:
 
@@ -55,7 +55,7 @@
 seamless user experience and functionality across various devices which gave
 <b>20% improvement in overall software stability and performance</b>
 
--Guided and trained 5 Junior QA team members on test automation best practices,
+-Guided and trained 2 Junior QA team members on test automation best practices,
 resulting in a <b>40% decrease in test execution time and a 25% increase in test
 coverage </b>
 
